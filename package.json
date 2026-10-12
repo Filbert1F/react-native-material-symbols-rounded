@@ -1,6 +1,6 @@
 {
   "name": "@filbert-fl/material-symbols-rounded",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Material Symbols Rounded font for react native vector icons",
   "source": "./src/index.ts",
   "main": "./lib/commonjs/index.js",
