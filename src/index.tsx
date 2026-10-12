@@ -34,7 +34,7 @@ export const MaterialSymbolsRounded = (props: MaterialSymbolsRoundedProps) => {
     case 'fill':
       return <MaterialSymbolsRoundedFill {...rest} />;
     case 'regular':
-      return <MaterialSymbolsRoundedFill {...rest} />;
+      return <MaterialSymbolsRoundedRegular {...rest} />;
     default:
       return <MaterialSymbolsRoundedRegular {...rest} />;
   }
