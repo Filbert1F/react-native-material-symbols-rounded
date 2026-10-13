@@ -15,11 +15,11 @@ import glyphMap from '../glyphmaps/MaterialSymbolsRounded.json';
 import type { ComponentProps } from 'react';
 
 const MaterialSymbolsRoundedRegular = createIconSet(glyphMap, {
-  postScriptName: 'MaterialSymbolsRounded',
+  postScriptName: 'MaterialSymbolsRounded-Regular',
   fontFileName: 'MaterialSymbolsRounded.ttf',
 });
 const MaterialSymbolsRoundedFill = createIconSet(glyphMap, {
-  postScriptName: 'MaterialSymbolsRoundedFill',
+  postScriptName: 'MaterialSymbolsRoundedFill-Regular',
   fontFileName: 'MaterialSymbolsRoundedFill.ttf',
 });
 
