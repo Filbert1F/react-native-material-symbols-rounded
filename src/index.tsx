@@ -19,7 +19,7 @@ const MaterialSymbolsRoundedRegular = createIconSet(glyphMap, {
   fontFileName: 'MaterialSymbolsRounded.ttf',
 });
 const MaterialSymbolsRoundedFill = createIconSet(glyphMap, {
-  postScriptName: 'MaterialSymbolsRoundedFill-Regular',
+  postScriptName: 'MaterialSymbolsRoundedFill',
   fontFileName: 'MaterialSymbolsRoundedFill.ttf',
 });
 
